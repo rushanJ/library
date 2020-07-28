@@ -1,0 +1,11 @@
+<Library Management System>
+
+1. Install Visual Studio 2015 or higher version
+2. Install MSSQL 2018 And Ms SQL Management Studio 
+
+<<<<<<<<<<<<  I M P O  R  T  E  N  T  >>>>>>>>>>>>>>>>>>>.
+
+3. Backup 'user.bak' into MSSQL Server
+4. Change Update Connection String on Library.exe.config
+		Data Source=  <YOUR_SERVER_NAME>  ;Initial Catalog=user;Integrated Security=True
+5. Save changes And run applicaton
